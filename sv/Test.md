@@ -1,1 +1,1 @@
-Detta är ett filformatstest.
+Detta är ett test för filformat.
