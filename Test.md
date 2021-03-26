@@ -1,1 +1,1 @@
-This is a file format test.
+Hello! This is some text to test translation workflows.
